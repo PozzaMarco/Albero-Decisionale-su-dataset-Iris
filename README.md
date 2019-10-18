@@ -9,3 +9,6 @@ Esempio di albero di decisione creato utilizzando il dataset Iris cosi struttura
 La libreria utilizzata è *DecisionTreeClassifier* fornita da sklearn. 
 L' esempio è stato utilizzato per vedere gli effetti del *Reduced Error Pruning* e della variazione del *guadagno informativo*
 tramite l'*entropia* o l'impurità di *gini* gli unici due metodi di impurità implementati dal DecisionTreeClassifier
+
+Il codice può essere trovato al seguente link:
+[Link a colab](https://colab.research.google.com/drive/1mY2oRZT74uGaKJYC4MIokh7SJt2FJ5mn)
